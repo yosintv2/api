@@ -1,0 +1,665 @@
+{
+  "province": "Lumbini Province (Province 5)",
+  "postal_codes": [
+    {
+      "district": "Rupandehi",
+      "post_offices": [
+        {
+          "name": "Rupandehi D.P.O. (Bhairahawa)",
+          "code": 32900,
+          "type": "DPO"
+        },
+        {
+          "name": "Butwal Bazar",
+          "code": 32907,
+          "type": "APO"
+        },
+        {
+          "name": "Lumbini",
+          "code": 32914,
+          "type": "APO"
+        },
+        {
+          "name": "Parroha",
+          "code": 32901,
+          "type": "APO"
+        },
+        {
+          "name": "Dhakadhai",
+          "code": 32902,
+          "type": "APO"
+        },
+        {
+          "name": "Manateriya",
+          "code": 32903,
+          "type": "APO"
+        },
+        {
+          "name": "Khajuriya",
+          "code": 32904,
+          "type": "APO"
+        },
+        {
+          "name": "Amuwa",
+          "code": 32905,
+          "type": "APO"
+        },
+        {
+          "name": "Saljhandi",
+          "code": 32906,
+          "type": "APO"
+        },
+        {
+          "name": "Kotahimai",
+          "code": 32909,
+          "type": "APO"
+        },
+        {
+          "name": "Suryapura",
+          "code": 32911,
+          "type": "APO"
+        },
+        {
+          "name": "Thamanwa",
+          "code": 32912,
+          "type": "APO"
+        },
+        {
+          "name": "Siyari",
+          "code": 32913,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Kapilvastu",
+      "post_offices": [
+        {
+          "name": "Kapilvastu D.P.O. (Taulihawa)",
+          "code": 32800,
+          "type": "DPO"
+        },
+        {
+          "name": "Krishnanagar",
+          "code": 32809,
+          "type": "APO"
+        },
+        {
+          "name": "Gorusinge",
+          "code": 32802,
+          "type": "APO"
+        },
+        {
+          "name": "Patthardot",
+          "code": 32801,
+          "type": "APO"
+        },
+        {
+          "name": "Pipara",
+          "code": 32803,
+          "type": "APO"
+        },
+        {
+          "name": "Chanauta",
+          "code": 32804,
+          "type": "APO"
+        },
+        {
+          "name": "Ganeshpur",
+          "code": 32805,
+          "type": "APO"
+        },
+        {
+          "name": "Thunhiya",
+          "code": 32807,
+          "type": "APO"
+        },
+        {
+          "name": "Bahadurganj",
+          "code": 32808,
+          "type": "APO"
+        },
+        {
+          "name": "Kopawa",
+          "code": 32811,
+          "type": "APO"
+        },
+        {
+          "name": "Gautam Buddha",
+          "code": 32812,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Nawalparasi (West of Daunne)",
+      "post_offices": [
+        {
+          "name": "Parasi D.P.O.",
+          "code": 33000,
+          "type": "DPO"
+        },
+        {
+          "name": "Sunwal",
+          "code": 33003,
+          "type": "APO"
+        },
+        {
+          "name": "Bardaghat",
+          "code": 33006,
+          "type": "APO"
+        },
+        {
+          "name": "Maheshpur",
+          "code": 33010,
+          "type": "APO"
+        },
+        {
+          "name": "Triveni",
+          "code": 33014,
+          "type": "APO"
+        },
+        {
+          "name": "Pratapur",
+          "code": 33016,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Palpa",
+      "post_offices": [
+        {
+          "name": "Palpa D.P.O. (Tansen)",
+          "code": 32500,
+          "type": "DPO"
+        },
+        {
+          "name": "Argali",
+          "code": 32501,
+          "type": "APO"
+        },
+        {
+          "name": "Chhahara",
+          "code": 32502,
+          "type": "APO"
+        },
+        {
+          "name": "Hupati",
+          "code": 32503,
+          "type": "APO"
+        },
+        {
+          "name": "Khasyauli",
+          "code": 32504,
+          "type": "APO"
+        },
+        {
+          "name": "Bhairabsthan",
+          "code": 32505,
+          "type": "APO"
+        },
+        {
+          "name": "Madanpokhari",
+          "code": 32506,
+          "type": "APO"
+        },
+        {
+          "name": "Tahoon",
+          "code": 32507,
+          "type": "APO"
+        },
+        {
+          "name": "Aryabhanjyang",
+          "code": 32508,
+          "type": "APO"
+        },
+        {
+          "name": "Rampur",
+          "code": 32509,
+          "type": "APO"
+        },
+        {
+          "name": "Baldengadhi",
+          "code": 32511,
+          "type": "APO"
+        },
+        {
+          "name": "Jhirubhanjyang",
+          "code": 32512,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Gulmi",
+      "post_offices": [
+        {
+          "name": "Gulmi D.P.O. (Tamghas)",
+          "code": 32600,
+          "type": "DPO"
+        },
+        {
+          "name": "Purbakot",
+          "code": 32601,
+          "type": "APO"
+        },
+        {
+          "name": "Ismadohali",
+          "code": 32602,
+          "type": "APO"
+        },
+        {
+          "name": "Wami",
+          "code": 32603,
+          "type": "APO"
+        },
+        {
+          "name": "Sringa",
+          "code": 32605,
+          "type": "APO"
+        },
+        {
+          "name": "Birbas",
+          "code": 32606,
+          "type": "APO"
+        },
+        {
+          "name": "Shantipur",
+          "code": 32607,
+          "type": "APO"
+        },
+        {
+          "name": "Bharse",
+          "code": 32608,
+          "type": "APO"
+        },
+        {
+          "name": "Johang",
+          "code": 32609,
+          "type": "APO"
+        },
+        {
+          "name": "Ridi",
+          "code": 32611,
+          "type": "APO"
+        },
+        {
+          "name": "Arkhale",
+          "code": 32612,
+          "type": "APO"
+        },
+        {
+          "name": "Manjhari",
+          "code": 32613,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Arghakhanchi",
+      "post_offices": [
+        {
+          "name": "Arghakhanchi D.P.O. (Sandhikharka)",
+          "code": 32700,
+          "type": "DPO"
+        },
+        {
+          "name": "Argha",
+          "code": 32701,
+          "type": "APO"
+        },
+        {
+          "name": "Khana",
+          "code": 32702,
+          "type": "APO"
+        },
+        {
+          "name": "Wangla",
+          "code": 32703,
+          "type": "APO"
+        },
+        {
+          "name": "Subarnakhal",
+          "code": 32704,
+          "type": "APO"
+        },
+        {
+          "name": "Thada",
+          "code": 32705,
+          "type": "APO"
+        },
+        {
+          "name": "Khilji",
+          "code": 32706,
+          "type": "APO"
+        },
+        {
+          "name": "Khaka",
+          "code": 32708,
+          "type": "APO"
+        },
+        {
+          "name": "Caratabas",
+          "code": 32709,
+          "type": "APO"
+        },
+        {
+          "name": "Balkot",
+          "code": 32711,
+          "type": "APO"
+        },
+        {
+          "name": "Pali",
+          "code": 32712,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Dang",
+      "post_offices": [
+        {
+          "name": "Dang D.P.O. (Ghorahi)",
+          "code": 22400,
+          "type": "DPO"
+        },
+        {
+          "name": "Tulsipur",
+          "code": 22412,
+          "type": "APO"
+        },
+        {
+          "name": "Lamahi",
+          "code": 22405,
+          "type": "APO"
+        },
+        {
+          "name": "Rampur",
+          "code": 22401,
+          "type": "APO"
+        },
+        {
+          "name": "Hapur",
+          "code": 22402,
+          "type": "APO"
+        },
+        {
+          "name": "Narayanpur",
+          "code": 22403,
+          "type": "APO"
+        },
+        {
+          "name": "Bhalwangi",
+          "code": 22404,
+          "type": "APO"
+        },
+        {
+          "name": "Koilabas",
+          "code": 22406,
+          "type": "APO"
+        },
+        {
+          "name": "Jangrahawa",
+          "code": 22407,
+          "type": "APO"
+        },
+        {
+          "name": "Srikot",
+          "code": 22408,
+          "type": "APO"
+        },
+        {
+          "name": "Manpur",
+          "code": 22411,
+          "type": "APO"
+        },
+        {
+          "name": "Panchakule",
+          "code": 22413,
+          "type": "APO"
+        },
+        {
+          "name": "Purandhara",
+          "code": 22414,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Pyuthan",
+      "post_offices": [
+        {
+          "name": "Pyuthan D.P.O. (Pyuthan Khalanga)",
+          "code": 22300,
+          "type": "DPO"
+        },
+        {
+          "name": "Bijuwar",
+          "code": 22302,
+          "type": "APO"
+        },
+        {
+          "name": "Machchhi",
+          "code": 22301,
+          "type": "APO"
+        },
+        {
+          "name": "Naya Gaun",
+          "code": 22303,
+          "type": "APO"
+        },
+        {
+          "name": "Lung Bazar",
+          "code": 22305,
+          "type": "APO"
+        },
+        {
+          "name": "Baraula",
+          "code": 22306,
+          "type": "APO"
+        },
+        {
+          "name": "Darimchaur",
+          "code": 22307,
+          "type": "APO"
+        },
+        {
+          "name": "Dakhanikot",
+          "code": 22308,
+          "type": "APO"
+        },
+        {
+          "name": "Wangemarot",
+          "code": 22309,
+          "type": "APO"
+        },
+        {
+          "name": "Syangja (Pyuthan)",
+          "code": 22311,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Rolpa",
+      "post_offices": [
+        {
+          "name": "Rolpa D.P.O. (Liwang)",
+          "code": 22200,
+          "type": "DPO"
+        },
+        {
+          "name": "Khungri",
+          "code": 22201,
+          "type": "APO"
+        },
+        {
+          "name": "Sirp",
+          "code": 22202,
+          "type": "APO"
+        },
+        {
+          "name": "Thawang",
+          "code": 22203,
+          "type": "APO"
+        },
+        {
+          "name": "Himoti",
+          "code": 22204,
+          "type": "APO"
+        },
+        {
+          "name": "Ghartigaun",
+          "code": 22205,
+          "type": "APO"
+        },
+        {
+          "name": "Nerpa",
+          "code": 22206,
+          "type": "APO"
+        },
+        {
+          "name": "Jinabang",
+          "code": 22207,
+          "type": "APO"
+        },
+        {
+          "name": "Sunchhari",
+          "code": 22208,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Rukum East",
+      "post_offices": [
+        {
+          "name": "Rukum East D.P.O. (Rukumkot)",
+          "code": 22100,
+          "type": "DPO"
+        },
+        {
+          "name": "Takasera",
+          "code": 22102,
+          "type": "APO"
+        },
+        {
+          "name": "Kol",
+          "code": 22111,
+          "type": "APO"
+        },
+        {
+          "name": "Mahat",
+          "code": 22113,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Banke",
+      "post_offices": [
+        {
+          "name": "Banke D.P.O. (Nepalgunj)",
+          "code": 21900,
+          "type": "DPO"
+        },
+        {
+          "name": "Kohalpur",
+          "code": 21908,
+          "type": "APO"
+        },
+        {
+          "name": "Bansgadhi",
+          "code": 21901,
+          "type": "APO"
+        },
+        {
+          "name": "Jayaspur",
+          "code": 21902,
+          "type": "APO"
+        },
+        {
+          "name": "Khaskusma",
+          "code": 21903,
+          "type": "APO"
+        },
+        {
+          "name": "Suiya",
+          "code": 21904,
+          "type": "APO"
+        },
+        {
+          "name": "Bhojbhagawanpur",
+          "code": 21905,
+          "type": "APO"
+        },
+        {
+          "name": "Chandranagar",
+          "code": 21906,
+          "type": "APO"
+        },
+        {
+          "name": "Radhapur",
+          "code": 21911,
+          "type": "APO"
+        },
+        {
+          "name": "Naubasta",
+          "code": 21912,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Bardiya",
+      "post_offices": [
+        {
+          "name": "Bardiya D.P.O. (Gulariya)",
+          "code": 22000,
+          "type": "DPO"
+        },
+        {
+          "name": "Rajapur",
+          "code": 22005,
+          "type": "APO"
+        },
+        {
+          "name": "Bhurigaun",
+          "code": 22001,
+          "type": "APO"
+        },
+        {
+          "name": "Motipur",
+          "code": 22002,
+          "type": "APO"
+        },
+        {
+          "name": "Magaragadhi",
+          "code": 22003,
+          "type": "APO"
+        },
+        {
+          "name": "Sanoshree",
+          "code": 22004,
+          "type": "APO"
+        },
+        {
+          "name": "Pashupati Nagar",
+          "code": 22007,
+          "type": "APO"
+        },
+        {
+          "name": "Jamuni",
+          "code": 22008,
+          "type": "APO"
+        },
+        {
+          "name": "Mainapokhar",
+          "code": 22011,
+          "type": "APO"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "province": "Sudurpashchim Province (Province 7)",
+  "postal_codes": [
+    {
+      "district": "Kailali",
+      "post_offices": [
+        {
+          "name": "Kailali D.P.O. (Dhangadhi)",
+          "code": 10900,
+          "type": "DPO"
+        },
+        {
+          "name": "Tikapur",
+          "code": 10901,
+          "type": "APO"
+        },
+        {
+          "name": "Lamki",
+          "code": 10902,
+          "type": "APO"
+        },
+        {
+          "name": "Attariya",
+          "code": 10903,
+          "type": "APO"
+        },
+        {
+          "name": "Joshipur",
+          "code": 10904,
+          "type": "APO"
+        },
+        {
+          "name": "Bhajani",
+          "code": 10905,
+          "type": "APO"
+        },
+        {
+          "name": "Phultala",
+          "code": 10906,
+          "type": "APO"
+        },
+        {
+          "name": "Chaumala",
+          "code": 10907,
+          "type": "APO"
+        },
+        {
+          "name": "Masuriya",
+          "code": 10908,
+          "type": "APO"
+        },
+        {
+          "name": "Dododhara",
+          "code": 10909,
+          "type": "APO"
+        },
+        {
+          "name": "Sukhad",
+          "code": 10910,
+          "type": "APO"
+        },
+        {
+          "name": "Hasuliya",
+          "code": 10911,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Kanchanpur",
+      "post_offices": [
+        {
+          "name": "Kanchanpur D.P.O. (Mahendranagar)",
+          "code": 10400,
+          "type": "DPO"
+        },
+        {
+          "name": "Dodhara",
+          "code": 10401,
+          "type": "APO"
+        },
+        {
+          "name": "Suda",
+          "code": 10402,
+          "type": "APO"
+        },
+        {
+          "name": "Jhalari",
+          "code": 10403,
+          "type": "APO"
+        },
+        {
+          "name": "Krishnapur",
+          "code": 10404,
+          "type": "APO"
+        },
+        {
+          "name": "Belauri",
+          "code": 10405,
+          "type": "APO"
+        },
+        {
+          "name": "Punarwas",
+          "code": 10406,
+          "type": "APO"
+        },
+        {
+          "name": "Chandani",
+          "code": 10407,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Doti",
+      "post_offices": [
+        {
+          "name": "Doti D.P.O. (Dipayal Silgadhi)",
+          "code": 10800,
+          "type": "DPO"
+        },
+        {
+          "name": "Doti Bazar",
+          "code": 10801,
+          "type": "APO"
+        },
+        {
+          "name": "Sanagaun",
+          "code": 10802,
+          "type": "APO"
+        },
+        {
+          "name": "Banlekh",
+          "code": 10803,
+          "type": "APO"
+        },
+        {
+          "name": "Mudra",
+          "code": 10804,
+          "type": "APO"
+        },
+        {
+          "name": "Lanakedat",
+          "code": 10805,
+          "type": "APO"
+        },
+        {
+          "name": "Bhogatwar",
+          "code": 10806,
+          "type": "APO"
+        },
+        {
+          "name": "Jorayal",
+          "code": 10807,
+          "type": "APO"
+        },
+        {
+          "name": "Ghagada",
+          "code": 10808,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Achham",
+      "post_offices": [
+        {
+          "name": "Achham D.P.O. (Mangalsen)",
+          "code": 10700,
+          "type": "DPO"
+        },
+        {
+          "name": "Sanphebagar",
+          "code": 10701,
+          "type": "APO"
+        },
+        {
+          "name": "Bayalpata",
+          "code": 10702,
+          "type": "APO"
+        },
+        {
+          "name": "Kamalbazar",
+          "code": 10703,
+          "type": "APO"
+        },
+        {
+          "name": "Chaurpati",
+          "code": 10704,
+          "type": "APO"
+        },
+        {
+          "name": "Kuchat",
+          "code": 10705,
+          "type": "APO"
+        },
+        {
+          "name": "Dhakari",
+          "code": 10706,
+          "type": "APO"
+        },
+        {
+          "name": "Turmakhand",
+          "code": 10707,
+          "type": "APO"
+        },
+        {
+          "name": "Mellekh",
+          "code": 10708,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Dadeldhura",
+      "post_offices": [
+        {
+          "name": "Dadeldhura D.P.O. (Amargadhi)",
+          "code": 10500,
+          "type": "DPO"
+        },
+        {
+          "name": "Jogbudha",
+          "code": 10501,
+          "type": "APO"
+        },
+        {
+          "name": "Ganeshpur",
+          "code": 10502,
+          "type": "APO"
+        },
+        {
+          "name": "Ugratara",
+          "code": 10503,
+          "type": "APO"
+        },
+        {
+          "name": "Rupal",
+          "code": 10504,
+          "type": "APO"
+        },
+        {
+          "name": "Bhadrapur",
+          "code": 10505,
+          "type": "APO"
+        },
+        {
+          "name": "Bagarkot",
+          "code": 10506,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Baitadi",
+      "post_offices": [
+        {
+          "name": "Baitadi D.P.O. (Dasharathchand)",
+          "code": 10200,
+          "type": "DPO"
+        },
+        {
+          "name": "Patan",
+          "code": 10201,
+          "type": "APO"
+        },
+        {
+          "name": "Melauli",
+          "code": 10202,
+          "type": "APO"
+        },
+        {
+          "name": "Gokuleshwor (Baitadi)",
+          "code": 10203,
+          "type": "APO"
+        },
+        {
+          "name": "Sharmali",
+          "code": 10204,
+          "type": "APO"
+        },
+        {
+          "name": "Sulkali",
+          "code": 10205,
+          "type": "APO"
+        },
+        {
+          "name": "Dhungad",
+          "code": 10206,
+          "type": "APO"
+        },
+        {
+          "name": "Dilasaini",
+          "code": 10207,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Darchula",
+      "post_offices": [
+        {
+          "name": "Darchula D.P.O. (Mahakali)",
+          "code": 10100,
+          "type": "DPO"
+        },
+        {
+          "name": "Gokuleshwor",
+          "code": 10101,
+          "type": "APO"
+        },
+        {
+          "name": "Rithachaupata",
+          "code": 10102,
+          "type": "APO"
+        },
+        {
+          "name": "Malikarjun",
+          "code": 10103,
+          "type": "APO"
+        },
+        {
+          "name": "Khalanga Bazar",
+          "code": 10104,
+          "type": "APO"
+        },
+        {
+          "name": "Khandeshwori",
+          "code": 10105,
+          "type": "APO"
+        },
+        {
+          "name": "Rapla",
+          "code": 10106,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Bajhang",
+      "post_offices": [
+        {
+          "name": "Bajhang D.P.O. (Jayaprithvi)",
+          "code": 10300,
+          "type": "DPO"
+        },
+        {
+          "name": "Talkot",
+          "code": 10301,
+          "type": "APO"
+        },
+        {
+          "name": "Khartad",
+          "code": 10302,
+          "type": "APO"
+        },
+        {
+          "name": "Rayal",
+          "code": 10303,
+          "type": "APO"
+        },
+        {
+          "name": "Thalara",
+          "code": 10304,
+          "type": "APO"
+        },
+        {
+          "name": "Bungal",
+          "code": 10305,
+          "type": "APO"
+        },
+        {
+          "name": "Kanda",
+          "code": 10306,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Bajura",
+      "post_offices": [
+        {
+          "name": "Bajura D.P.O. (Martadi)",
+          "code": 10600,
+          "type": "DPO"
+        },
+        {
+          "name": "Kolti",
+          "code": 10601,
+          "type": "APO"
+        },
+        {
+          "name": "Dogadi",
+          "code": 10602,
+          "type": "APO"
+        },
+        {
+          "name": "Tate",
+          "code": 10603,
+          "type": "APO"
+        },
+        {
+          "name": "Barhabise",
+          "code": 10604,
+          "type": "APO"
+        },
+        {
+          "name": "Chatara",
+          "code": 10605,
+          "type": "APO"
+        }
+      ]
+    }
+  ]
+}

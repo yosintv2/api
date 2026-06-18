@@ -1,0 +1,410 @@
+{
+  "province": "Karnali Province (Province 6)",
+  "postal_codes": [
+    {
+      "district": "Surkhet",
+      "post_offices": [
+        {
+          "name": "Surkhet D.P.O. (Birendranagar)",
+          "code": 21700,
+          "type": "DPO"
+        },
+        {
+          "name": "Chhinchu",
+          "code": 21701,
+          "type": "APO"
+        },
+        {
+          "name": "Ramghat",
+          "code": 21702,
+          "type": "APO"
+        },
+        {
+          "name": "Sahare",
+          "code": 21703,
+          "type": "APO"
+        },
+        {
+          "name": "Gumi",
+          "code": 21704,
+          "type": "APO"
+        },
+        {
+          "name": "Bheriganga",
+          "code": 21705,
+          "type": "APO"
+        },
+        {
+          "name": "Matela",
+          "code": 21706,
+          "type": "APO"
+        },
+        {
+          "name": "Malra",
+          "code": 21707,
+          "type": "APO"
+        },
+        {
+          "name": "Dhungeshwor",
+          "code": 21708,
+          "type": "APO"
+        },
+        {
+          "name": "Babiyachaur",
+          "code": 21711,
+          "type": "APO"
+        },
+        {
+          "name": "Ghatgaun",
+          "code": 21712,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Dailekh",
+      "post_offices": [
+        {
+          "name": "Dailekh D.P.O. (Narayan)",
+          "code": 21600,
+          "type": "DPO"
+        },
+        {
+          "name": "Ganeshpur",
+          "code": 21601,
+          "type": "APO"
+        },
+        {
+          "name": "Malika",
+          "code": 21602,
+          "type": "APO"
+        },
+        {
+          "name": "Balwatar",
+          "code": 21603,
+          "type": "APO"
+        },
+        {
+          "name": "Naumule",
+          "code": 21604,
+          "type": "APO"
+        },
+        {
+          "name": "Dullu",
+          "code": 21605,
+          "type": "APO"
+        },
+        {
+          "name": "Paduka",
+          "code": 21606,
+          "type": "APO"
+        },
+        {
+          "name": "Layati",
+          "code": 21607,
+          "type": "APO"
+        },
+        {
+          "name": "Toriatod",
+          "code": 21608,
+          "type": "APO"
+        },
+        {
+          "name": "Rakam Karnali",
+          "code": 21611,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Jajarkot",
+      "post_offices": [
+        {
+          "name": "Jajarkot D.P.O. (Khalanga)",
+          "code": 21500,
+          "type": "DPO"
+        },
+        {
+          "name": "Dhime",
+          "code": 21501,
+          "type": "APO"
+        },
+        {
+          "name": "Dalli",
+          "code": 21502,
+          "type": "APO"
+        },
+        {
+          "name": "Dasera",
+          "code": 21503,
+          "type": "APO"
+        },
+        {
+          "name": "Rokaya Gaun (Gharanga)",
+          "code": 21504,
+          "type": "APO"
+        },
+        {
+          "name": "Karkigaun",
+          "code": 21505,
+          "type": "APO"
+        },
+        {
+          "name": "Thalabazar",
+          "code": 21506,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Salyan",
+      "post_offices": [
+        {
+          "name": "Salyan D.P.O. (Khalanga)",
+          "code": 22500,
+          "type": "DPO"
+        },
+        {
+          "name": "Tharmare",
+          "code": 22501,
+          "type": "APO"
+        },
+        {
+          "name": "Machaun",
+          "code": 22502,
+          "type": "APO"
+        },
+        {
+          "name": "Luham",
+          "code": 22503,
+          "type": "APO"
+        },
+        {
+          "name": "Kapurkot",
+          "code": 22504,
+          "type": "APO"
+        },
+        {
+          "name": "Dhanbang",
+          "code": 22505,
+          "type": "APO"
+        },
+        {
+          "name": "Madanbazar (Chaurjahari)",
+          "code": 22506,
+          "type": "APO"
+        },
+        {
+          "name": "Devasthal",
+          "code": 22507,
+          "type": "APO"
+        },
+        {
+          "name": "Bhalchaur",
+          "code": 22508,
+          "type": "APO"
+        },
+        {
+          "name": "Rampur",
+          "code": 22511,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Rukum West",
+      "post_offices": [
+        {
+          "name": "Rukum West D.P.O. (Musikot)",
+          "code": 22100,
+          "type": "DPO"
+        },
+        {
+          "name": "Chaurjahari",
+          "code": 22101,
+          "type": "APO"
+        },
+        {
+          "name": "Rari Liwang",
+          "code": 22103,
+          "type": "APO"
+        },
+        {
+          "name": "Peepal",
+          "code": 22104,
+          "type": "APO"
+        },
+        {
+          "name": "Syalapakha",
+          "code": 22105,
+          "type": "APO"
+        },
+        {
+          "name": "Simli",
+          "code": 22106,
+          "type": "APO"
+        },
+        {
+          "name": "Radijula",
+          "code": 22107,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Kalikot",
+      "post_offices": [
+        {
+          "name": "Kalikot D.P.O. (Manma)",
+          "code": 21300,
+          "type": "DPO"
+        },
+        {
+          "name": "Sanni Triveni",
+          "code": 21301,
+          "type": "APO"
+        },
+        {
+          "name": "Mehalmudi",
+          "code": 21302,
+          "type": "APO"
+        },
+        {
+          "name": "Thirpu",
+          "code": 21303,
+          "type": "APO"
+        },
+        {
+          "name": "Padamghat",
+          "code": 21304,
+          "type": "APO"
+        },
+        {
+          "name": "Jubitha",
+          "code": 21305,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Jumla",
+      "post_offices": [
+        {
+          "name": "Jumla D.P.O. (Khalanga)",
+          "code": 21200,
+          "type": "DPO"
+        },
+        {
+          "name": "Dillichaur",
+          "code": 21201,
+          "type": "APO"
+        },
+        {
+          "name": "Tatopani",
+          "code": 21202,
+          "type": "APO"
+        },
+        {
+          "name": "Malika Bota",
+          "code": 21203,
+          "type": "APO"
+        },
+        {
+          "name": "Narakot",
+          "code": 21204,
+          "type": "APO"
+        },
+        {
+          "name": "Chauthabazar",
+          "code": 21205,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Mugu",
+      "post_offices": [
+        {
+          "name": "Mugu D.P.O. (Gamgadhi)",
+          "code": 21100,
+          "type": "DPO"
+        },
+        {
+          "name": "Rara",
+          "code": 21101,
+          "type": "APO"
+        },
+        {
+          "name": "Pulu",
+          "code": 21102,
+          "type": "APO"
+        },
+        {
+          "name": "Sukhadhik",
+          "code": 21103,
+          "type": "APO"
+        },
+        {
+          "name": "Sorubazar",
+          "code": 21104,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Humla",
+      "post_offices": [
+        {
+          "name": "Humla D.P.O. (Simikot)",
+          "code": 21000,
+          "type": "DPO"
+        },
+        {
+          "name": "Muchu",
+          "code": 21001,
+          "type": "APO"
+        },
+        {
+          "name": "Sarkeghat",
+          "code": 21003,
+          "type": "APO"
+        },
+        {
+          "name": "Srinagar",
+          "code": 21004,
+          "type": "APO"
+        }
+      ]
+    },
+    {
+      "district": "Dolpa",
+      "post_offices": [
+        {
+          "name": "Dolpa D.P.O. (Dunai)",
+          "code": 21400,
+          "type": "DPO"
+        },
+        {
+          "name": "Juphal",
+          "code": 21401,
+          "type": "APO"
+        },
+        {
+          "name": "Kaigaun",
+          "code": 21402,
+          "type": "APO"
+        },
+        {
+          "name": "Liku",
+          "code": 21403,
+          "type": "APO"
+        },
+        {
+          "name": "Saldang",
+          "code": 21405,
+          "type": "APO"
+        }
+      ]
+    }
+  ]
+}
